@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: skypal_dev
+
+test:
+  adapter: postgresql
+  database: skypal_test
